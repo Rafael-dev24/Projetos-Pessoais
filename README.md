@@ -1,117 +1,56 @@
-# 🟨 JavaScript - Exercícios de Lógica de Programação
+# 💻 Projetos Pessoais
 
-> Repositório dedicado aos meus estudos de **Lógica de Programação com JavaScript**.
+Olá! 👋 Eu sou Rafael Dantas e este repositório reúne alguns dos meus projetos pessoais desenvolvidos durante meus estudos na área de programação.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Foco-Lógica%20de%20Programação-blue?style=for-the-badge">
-</p>
+Aqui vou colocar projetos feitos para praticar programação, lógica de programação, desenvolvimento de sistemas e outras tecnologias que estou aprendendo.
 
----
+## 🚀 Primeiro projeto
 
-## 📖 Sobre
+### 🎮 Sistema de Loja de Jogos
 
-Este repositório foi criado para registrar minha evolução no aprendizado de **JavaScript**, reunindo exercícios de lógica de programação resolvidos durante os estudos.
+Meu primeiro projeto pessoal é um sistema simples de **Loja de Jogos desenvolvido em Python**.
 
-Meu objetivo é desenvolver o raciocínio lógico, aprender boas práticas de programação e construir uma base sólida para o desenvolvimento web.
+O projeto foi criado para praticar conceitos básicos de programação, como:
 
----
+* Variáveis
+* Entrada e saída de dados
+* Condicionais (`if`, `elif` e `else`)
+* Laços de repetição (`for` e `while`)
+* Funções
+* Listas
+* Dicionários
+* Entrada de dados com `input()`
+* Conversão de valores
+* Uso de `.lower()`
 
-## 🚀 Tecnologias
+### 📌 Funcionalidades
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" width="55"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-</p>
+O sistema possui um menu com algumas opções:
 
----
+1. **Cadastrar jogo**
+2. **Listar jogos**
+3. **Pesquisar jogo**
+4. **Calcular valor total**
+5. **Ver jogos em promoção**
+6. **Sair do sistema**
 
-## 📂 Estrutura do projeto
+O cadastro de cada jogo possui informações como código, nome, preço, ano de lançamento e indicação de promoção.
 
-```text
-📦 javascript-logica
-│
-├── 📁 Exercícios
-│   ├── exercicio01.js
-│   ├── exercicio02.js
-│   ├── exercicio03.js
-│   └── ...
-│
-└── README.md
-```
+### 🛠️ Tecnologias
 
----
-
-## 📚 Conteúdos estudados
-
-* ✅ Variáveis (`let` e `const`)
-* ✅ Entrada e saída de dados (`prompt` e `console.log`)
-* ✅ Operadores aritméticos
-* ✅ Operadores relacionais
-* ✅ Operadores lógicos
-* ✅ Estruturas condicionais (`if`, `else` e `switch`)
-* ⏳ Estruturas de repetição (`for`, `while` e `do...while`)
-* ⏳ Arrays
-* ⏳ Objetos
-* ⏳ Funções
-* ⏳ Manipulação de Strings
-* ⏳ DOM
-* ⏳ Consumo de APIs
-
----
-
-## 📈 Meu progresso
-
-```
-Lógica de Programação      ████████░░ 80%
-JavaScript Básico          ██████░░░░ 60%
-Estruturas de Repetição    ███░░░░░░░ 30%
-Funções                    ██░░░░░░░░ 20%
-DOM                         ░░░░░░░░░░ 0%
-```
-
----
-
-## 🎯 Objetivos
-
-* Resolver exercícios de lógica diariamente.
-* Aprender JavaScript moderno (ES6+).
-* Melhorar o raciocínio lógico.
-* Criar uma base sólida para projetos maiores.
-* Evoluir para desenvolvimento Front-end.
-
----
-
-## 📝 Organização
-
-Cada exercício contém apenas o código-fonte da solução, seguindo uma numeração simples para facilitar a evolução dos estudos.
-
-Exemplo:
-
-```text
-Exercício 01 - Maior de idade
-Exercício 02 - Número par ou ímpar
-Exercício 03 - Maior entre dois números
-Exercício 04 - Média do aluno
-...
-```
-
----
-
-## 💻 Ambiente de desenvolvimento
-
-* Visual Studio Code
-* JavaScript (ES6+)
+* **Python**
+* VS Code
 * Git
 * GitHub
 
----
+### 📚 Objetivo
 
-## ⭐ Evoluindo um exercício de cada vez.
+O principal objetivo deste repositório é acompanhar minha evolução na programação por meio de projetos práticos.
 
-> "A melhor maneira de aprender programação é escrevendo código todos os dias."
+Como este é meu primeiro projeto pessoal, pretendo continuar melhorando o código e criando novos projetos conforme avanço nos meus estudos.
 
-Se este repositório for útil para você, considere deixar uma ⭐.
+## 📈 Em desenvolvimento
+
+Este repositório será atualizado com novos projetos, experimentos e exercícios desenvolvidos durante minha jornada de aprendizado.
+
+> 🚧 Repositório em constante evolução.
